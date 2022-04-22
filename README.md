@@ -12,6 +12,8 @@
 
   This project uses Express.js, MySQL and Sequelize in order to set up a server that allows for persistent storage. We are utilizing dotenv in order to protect sensitive environment data. A user will be able to create, view, update, and delete various products, tags, and categories using a RESTful api.
 
+  [Click Here](https://drive.google.com/file/d/1EAP3DJEIXQcO-9iLOKfBNvwOF1ZMcjrj/view) for a video walkthrough on the functionality of the backend.
+
   
  ## Installation
 
